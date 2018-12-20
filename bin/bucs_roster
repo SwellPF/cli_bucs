@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'bucs_roster' 
+
+Bucs_Roster::CLI.new.call
